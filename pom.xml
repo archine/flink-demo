@@ -60,12 +60,23 @@
 
 		<!-- Example:
 
+		-->
 		<dependency>
 			<groupId>org.apache.flink</groupId>
-			<artifactId>flink-connector-kafka-0.10_${scala.binary.version}</artifactId>
-			<version>${flink.version}</version>
+			<artifactId>flink-connector-kafka_2.11</artifactId>
+			<version>1.10.0</version>
 		</dependency>
-		-->
+		<dependency>
+			<groupId>org.apache.flink</groupId>
+			<artifactId>flink-connector-elasticsearch6_2.11</artifactId>
+			<version>1.10.0</version>
+		</dependency>
+
+		<dependency>
+			<groupId>cn.gjing</groupId>
+			<artifactId>tools-common</artifactId>
+			<version>1.6.2</version>
+		</dependency>
 
 		<!-- Add logging framework, to produce console output when running in the IDE. -->
 		<!-- These dependencies are excluded from the application JAR by default. -->
