@@ -106,12 +106,20 @@
     <orderEntry type="library" name="Maven: org.elasticsearch.plugin:rank-eval-client:6.3.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-to-slf4j:2.9.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-api:2.9.1" level="project" />
-    <orderEntry type="library" name="Maven: cn.gjing:tools-common:1.6.2" level="project" />
+    <orderEntry type="library" name="Maven: cn.gjing:tools-common:1.6.4" level="project" />
     <orderEntry type="library" name="Maven: javax.mail:mail:1.4.7" level="project" />
     <orderEntry type="library" name="Maven: javax.activation:activation:1.1" level="project" />
     <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.14" level="project" />
     <orderEntry type="library" name="Maven: commons-io:commons-io:2.6" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.slf4j:slf4j-log4j12:1.7.7" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: log4j:log4j:1.2.17" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.flink:flink-table-api-scala-bridge_2.11:1.10.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.flink:flink-table-api-scala_2.11:1.10.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.flink:flink-table-api-java:1.10.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.flink:flink-table-planner_2.11:1.10.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.flink:flink-table-common:1.10.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.flink:flink-table-api-java-bridge_2.11:1.10.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.flink:flink-statebackend-rocksdb_2.11:1.10.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.data-artisans:frocksdbjni:5.17.2-artisans-2.0" level="project" />
   </component>
 </module>
